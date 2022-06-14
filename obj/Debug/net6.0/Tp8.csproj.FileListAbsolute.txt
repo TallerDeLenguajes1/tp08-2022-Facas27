@@ -1,0 +1,15 @@
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\bin\Debug\net6.0\Tp8.exe
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\bin\Debug\net6.0\Tp8.deps.json
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\bin\Debug\net6.0\Tp8.runtimeconfig.json
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\bin\Debug\net6.0\Tp8.dll
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\bin\Debug\net6.0\Tp8.pdb
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.dll
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\refint\Tp8.dll
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.pdb
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\Tp8.genruntimeconfig.cache
+C:\Users\facun\OneDrive\Escritorio\Tp8\tp08-2022-Facas27\obj\Debug\net6.0\ref\Tp8.dll
